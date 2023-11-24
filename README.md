@@ -61,5 +61,17 @@ I have additionally uploaded the images of the data visualisations and an execut
 
 
 
+The imdb csv I uploaded is my alternative version of the main dataset found at - https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
+
+
+
+Reference 
+
+
+
+Shankhdhar,H.(2020).IMDB Movies Dataset(Version 1.0)[Data set].Kaggle.https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+
+
+ 
 
